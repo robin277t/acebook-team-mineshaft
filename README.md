@@ -1,10 +1,13 @@
 # Acebook
+Makers Academy team engineering project 2 (2 week duration). Note this repo was forked from a team-mate so we all had control of a copy.
 
-# Trello Board:
+The goal was to make a facebook clone using the MERN stack.
 
-https://trello.com/b/Ckf68HAB/acebook
+In this project, we were tasked with working on an existing application. A significant part of the challenge was to familiarise ourselves with the codebase we'd inherited, and work to **improve and extend** it.
 
-In this project, you are tasked with working on an existing application. A significant part of the challenge will be to familiarise yourself with the codebase you've inherited, as you work to **improve and extend** it.
+## Trello Board:
+
+https://trello.com/******
 
 ## Videos
 
